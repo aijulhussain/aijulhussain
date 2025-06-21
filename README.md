@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate ML enthusiast.<br>🌱 I'm currently learning Deep learning<br>💬 Ask me about anything related to technology.<br>
+🔭 A passionate ML enthusiast.<br>🌱 I'm currently learning Agentic AI.<br>💬 Ask me about anything related to technology.<br>
 
 
 ## 🌐 Connect with Me:
